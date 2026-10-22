@@ -1,1 +1,0 @@
-{"generation":70,"schema":"vocab-delivery-root/2","shards":[{"entries":793,"locations":[{"auth":"none","container":"json","object":{"bytes":386819,"sha256":"22876430eb01ff3f81ff4cd5dc0385f51bcf4027acd004ec252896201894e35e"},"url":"https://cards.6ray.com/storage/v1/object/public/spell-public/cards-v2/index/shard-22876430eb01ff3f.json"}],"prefix":""}],"split_at":4096}
